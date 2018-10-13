@@ -6,7 +6,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Comic Sans MS';
   color: #222;
   background: #f7f5f0;
 }
@@ -27,7 +27,7 @@ a:hover {
   padding: 11px;
   position: fixed;
   text-align: center;
-  z-index: 999;
+  z-index: 998;
 }
 
 .nav .name{
